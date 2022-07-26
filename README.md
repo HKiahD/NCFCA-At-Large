@@ -1,2 +1,3 @@
 # NCFCA-At-Large-Calculator
 This program automatically calculates NCFCA-At-Large points, and writes the results to a google sheet. The program is currently set to update the sheet once a week. The google sheet is avalible for anyone in NCFCA, but for privacy reasons I am not going to put the link out publically. Ask around if anyone has my contact info, and contact me to get the link to the sheet. I am part of Region 6, if that helps you find me.
+If you have / when you get the link to my sheet, you are selcome to share it with your freinds. I plan to keep the program up and working with NCFCA's ever-changing API. 
